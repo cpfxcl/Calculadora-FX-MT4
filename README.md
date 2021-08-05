@@ -1,6 +1,6 @@
 # Calculadora-FX-MT4
 Calculadora para ayudar a realizar calculos de lotaje en base a parametros establecidos
-Funciona SOLO en MT5 cuentas Demo y Reales
+Funciona SOLO en MT4 cuentas Demo y Reales
 
 Inspirada en este https://www.myfxbook.com/es/forex-calculators/position-size
 
